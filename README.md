@@ -8,4 +8,3 @@ Kam njohuri rreth HTML-CSS dhe kam disa projekte te realizuara.
 1.[Airstats](https://airstats.netlify.com/)
 
 2.[Ekuacionet kuadratike](https://ekuacionet-kuadratike.netlify.app/)
-
