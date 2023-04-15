@@ -1,7 +1,8 @@
 # WhoamI
 ```
-Une jam Lis Haxhiavdyli me pelqen programimi. 
-Kam njohuri rreth HTML-CSS dhe kam disa projekte te realizuara.
+Une jam Lis Haxhiavdyli me pelqen 
+programimi. Kam njohuri rreth HTML-CSS
+dhe kam disa projekte te realizuara.
 ```
 
 ## Projektet
