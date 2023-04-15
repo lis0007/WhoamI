@@ -8,4 +8,6 @@ Kam njohuri rreth HTML-CSS dhe kam disa projekte te realizuara.
 
 1.<a href="https://airstats.netlify.app/" target="_blank">AirStats</a>
 
-2.[Ekuacionet kuadratike](https://ekuacionet-kuadratike.netlify.app/)
+2.<a href="https://ekuacionet-kuadratike.netlify.app/" target="_blank">Ekuacionet Kuadratike</a>
+
+3.<a href="https://electronic-calculator.netlify.app/" target="_blank">Scientific Calculator</a>
