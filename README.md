@@ -1,5 +1,5 @@
 # WhoamI
-<width 10px>
+
 ```
 Une jam Lis Haxhiavdyli me pelqen 
 programimi. Kam njohuri rreth HTML-CSS
